@@ -4,11 +4,10 @@
 ![GitHub Stars](https://img.shields.io/github/stars/your-username?style=social)
 
 ## 🌟 About Me
-- 🌐 **Role:** [Your Role/Profession] (e.g., Web Developer, Software Engineer)
-- 💻 **Technologies:** React, Laravel, SourceAFIS, XAMPP, [Your Other Skills]
+- 🌐 **Role:** Full-stack Web Developer
+- 💻 **Technologies:** React, Laravel, XAMPP, Windows Forms
 - 🛠️ **Specialized in:** Rapid Application Development (RAD), Database Management
-- 📚 **Currently Learning:** [Technology or Concept] (e.g., Machine Learning, Cloud Architecture)
-- 🎯 **Goal:** [Your Goal or Mission Statement] (e.g., "Building scalable and robust web applications")
+- 📚 **Currently Learning:** Machine Learning, Blockchai
 - 🌱 **Hobbies:** [Optional Fun Facts About You] (e.g., "Exploring open-source, gaming, blogging")
 
 ---
