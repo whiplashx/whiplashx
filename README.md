@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Josh Manalo!
 
 ![GitHub Followers](https://img.shields.io/github/followers/your-username?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/your-username?style=social)
