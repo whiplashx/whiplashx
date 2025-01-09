@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Josh Manalo!
 
-![GitHub Followers](https://img.shields.io/github/followers/your-username?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/your-username?style=social)
+![GitHub Followers](https://img.shields.io/github/followers/whiplashx?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/whiplashx?style=social)
 
 ## 🌟 About Me
 - 🌐 **Role:** Full-stack Web Developer
@@ -14,21 +14,21 @@
 
 ## 🚀 Featured Projects
 
-### 🔗 [Project Name 1](https://github.com/your-username/project1)
+### 🔗 [Project Name 1](https://github.com/whiplashx/project1)
 - 🌟 Description: [Brief description of the project]
 - 💡 Tech Stack: React | Laravel | [Other Tools]
 - 📝 Key Features: 
   - Feature 1
   - Feature 2
 
-### 🔗 [Project Name 2](https://github.com/your-username/project2)
+### 🔗 [Project Name 2](https://github.com/whiplashx/project2)
 - 🌟 Description: [Brief description of the project]
 - 💡 Tech Stack: Python | Flask | [Other Tools]
 - 📝 Key Features:
   - Feature 1
   - Feature 2
 
-*View more on my [GitHub repositories](https://github.com/your-username?tab=repositories)*.
+*View more on my [GitHub repositories](https://github.com/whiplashx?tab=repositories)*.
 
 ---
 
