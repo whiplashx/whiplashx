@@ -2,8 +2,6 @@
 
 ## Software Engineer
 
-A passionate developer focused on building elegant solutions to complex problems.
-
 ---
 
 ### 👨‍💻 Technologies & Skills
@@ -13,7 +11,8 @@ A passionate developer focused on building elegant solutions to complex problems
 - **Backend**: Node.js, Laravel/PHP
 - **DevOps**:
 - **Tools**: Git, VSCode
-
+- **Cybersecurity
+- **Windows/Linux Forensics
 ---
 
 ### 📊 GitHub Stats
