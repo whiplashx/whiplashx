@@ -11,8 +11,7 @@
 - **Backend**: Node.js, Laravel/PHP
 - **DevOps**:
 - **Tools**: Git, VSCode
-- **Cybersecurity
-- **Windows/Linux Forensics
+- **Cybersecurity**: CTF
 ---
 
 ### 📊 GitHub Stats
