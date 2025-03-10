@@ -8,11 +8,11 @@ A passionate developer focused on building elegant solutions to complex problems
 
 ### 👨‍💻 Technologies & Skills
 
-- **Languages**: JavaScript, TypeScript, Python
-- **Frontend**: React, Vue.js, HTML/CSS
-- **Backend**: Node.js, Express, Django
-- **DevOps**: Docker, AWS, CI/CD
-- **Tools**: Git, VSCode, Jira
+- **Languages**: JavaScript, TypeScript, Python, C#
+- **Frontend**: React, HTML/CSS 
+- **Backend**: Node.js, Laravel/PHP
+- **DevOps**:
+- **Tools**: Git, VSCode
 
 ---
 
