@@ -14,15 +14,6 @@
 
 ---
 
-### 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=whiplashx&show_icons=true&theme=graywhite&hide_border=true&count_private=true&hide_title=true&hide=issues,prs" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whiplashx&layout=compact&theme=graywhite&hide_border=true&hide_title=true" height="150" />
-</p>
-
----
-
 ### 📬 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josh-manalo-5b8743327/)
