@@ -9,7 +9,7 @@
 - **Languages**: JavaScript, TypeScript, Python, C#
 - **Frontend**: React, HTML/CSS, Dart  
 - **Backend**: Node.js, Laravel (PHP), Firebase
-- **Tools**: Git, VSCode
+- **Tools**: Git, VSCode, SSH
 - **Interests**: Cybersecurity (CTFs)
 
 ---
