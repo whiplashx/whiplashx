@@ -7,8 +7,8 @@
 ### 🛠️ Tech Stack
 
 - **Languages**: JavaScript, TypeScript, Python, C#
-- **Frontend**: React, HTML/CSS  
-- **Backend**: Node.js, Laravel (PHP)
+- **Frontend**: React, HTML/CSS, Dart  
+- **Backend**: Node.js, Laravel (PHP), Firebase
 - **Tools**: Git, VSCode
 - **Interests**: Cybersecurity (CTFs)
 
