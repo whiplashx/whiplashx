@@ -1,4 +1,4 @@
-### Slop Engineer
+# Slop Engineer
 ## GitHub Stats
 
 <picture>
