@@ -1,75 +1,112 @@
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF41&center=false&vCenter=true&random=false&width=650&lines=%24+whoami;%3E+Josh+Manalo;%3E+Java+Developer;%3E+Spring+Boot+%7C+React+%7C+Cybersecurity;%3E+Always+Learning..." alt="Typing SVG" />
+<div align="center">
 
-```bash
-┌──(whiplashx㉿github)-[~/profile]
-└─$ whoami
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Josh+Manalo;Learning+Java+%26+Spring+Boot;Building+with+React;Always+learning+something+new..." alt="Typing SVG" />
 
-Josh Manalo
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</div>
 
-> Java Developer
-> Spring Boot • React • TypeScript
-> Cybersecurity Enthusiast
-> Linux User
-> Building secure and scalable applications...
+```console
+josh@github:~$ whoami
+
+Recent IT Graduate
+Learning Java & Spring Boot 
+Building web applications with React 
+Interested in Cybersecurity 
+
+Status: Learning one commit at a time.
 ```
 
-<p align="center">
-<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="700"/>
-</p>
+---
 
-## 📊 Terminal Statistics
+## GitHub Stats
 
 <p align="center">
+
 <picture>
-  <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=whiplashx&theme=tokyonight" media="(prefers-color-scheme: dark)" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=whiplashx&theme=tokyonight"/>
+  <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=whiplashx&theme=github_dark" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=whiplashx&theme=default" media="(prefers-color-scheme: light)" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=whiplashx&theme=default" />
 </picture>
 
 <picture>
-  <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=whiplashx&theme=tokyonight" media="(prefers-color-scheme: dark)" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=whiplashx&theme=tokyonight"/>
+  <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=whiplashx&theme=github_dark" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=whiplashx&theme=default" media="(prefers-color-scheme: light)" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=whiplashx&theme=default" />
 </picture>
 
 <picture>
-  <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=whiplashx&theme=tokyonight" media="(prefers-color-scheme: dark)" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=whiplashx&theme=tokyonight"/>
+  <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=whiplashx&theme=github_dark" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=whiplashx&theme=default" media="(prefers-color-scheme: light)" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=whiplashx&theme=default" />
 </picture>
 
 <picture>
-  <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=whiplashx&theme=tokyonight&utcOffset=8" media="(prefers-color-scheme: dark)" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=whiplashx&theme=tokyonight&utcOffset=8"/>
+  <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=whiplashx&theme=github_dark&utcOffset=8" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=whiplashx&theme=default&utcOffset=8" media="(prefers-color-scheme: light)" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=whiplashx&theme=default&utcOffset=8" />
 </picture>
+
 </p>
 
 ---
 
-```console
-$ skills --list
+## 💻 Tech Stack
 
-Languages
-├── Java
-├── TypeScript
-├── JavaScript
-├── PHP
-└── SQL
-
-Frameworks
-├── Spring Boot
+```text
+Frontend
 ├── React
-├── Laravel
-└── Tailwind CSS
+├── TypeScript
+├── Tailwind CSS
+└── Vite
+
+Backend
+├── Java (Learning)
+├── Spring Boot (Learning)
+└── Laravel
+
+Database
+├── MySQL
+└── MongoDB
 
 Tools
 ├── Git
-├── Docker
 ├── Linux
+├── Docker
 ├── Postman
-├── Burp Suite
-├── Wireshark
-└── Nmap
+├── VS Code
+└── IntelliJ IDEA
 ```
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00FF41&center=true&vCenter=true&width=700&lines=Initializing...;Compiling+Java...;Running+Spring+Boot...;Deploying+React...;No+bugs+found+(hopefully)."/>
-</p>
+---
+
+##  Currently Working On
+
+- Learning Spring Boot fundamentals
+- Building React applications
+- Improving web security knowledge
+- Creating personal projects
+
+---
+
+<div align="center">
+
+### Contribution Snake
+
+![snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,tailwind,laravel,mysql,mongodb,git,linux,docker,vscode,idea&perline=7" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1500&color=8B949E&center=true&vCenter=true&width=500&lines=git+add+.;git+commit+-m+%22keep+learning%22;git+push+origin+main" alt="Footer Typing" />
+
+</div>
