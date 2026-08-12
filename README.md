@@ -7,12 +7,10 @@
 ```console
 josh@github:~$ whoami
 
-Recent IT Graduate
 Learning Java & Spring Boot 
-Building web applications with React 
-Interested in Cybersecurity 
+Web applications
+Cybersecurity 
 
-Status: Learning one commit at a time.
 ```
 
 ---
